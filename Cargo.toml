@@ -1,0 +1,9 @@
+[package]
+edition = "2018"
+name = "icat"
+version = "0.1.0"
+authors = ["Aaron Lux <lux.r.ck@gmail.com>"]
+
+[dependencies]
+image = "*"
+console = "*"
